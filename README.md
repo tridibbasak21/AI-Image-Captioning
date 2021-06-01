@@ -1,6 +1,10 @@
 # AI-Image-Captioning
-DevFolio : Code Off Duty Hackathon
- Took a data set from Kaggle named Flickr (with 30K images). In our ML-DL model these set of images were fed as the input and corresponding to it a caption was generated with each image.
+DevFolio : Code Off Duty Hackathon 2020
+
+
+
+
+Took a data set from Kaggle named Flickr (with 30K images). In our ML-DL model these set of images were fed as the input and corresponding to it a caption was generated with each image.
 
 The problem AI Image Caption Bot solves:
 The problems the AI captioning bot solves are as follows:
